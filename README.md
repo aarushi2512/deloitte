@@ -3,7 +3,9 @@
 
 I am a data and analytics enthusiast based in Mumbai, with a keen interest in leveraging technology to solve business challenges. My background blends technical proficiency with a passion for storytelling through data. I enjoy building tools and visualizations that make impact accessible to a wide audience.
 
-Feel free to connect with me on [LinkedIn](your-link-here).
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/aarushi-dev-in
+
+).
 
 # Data & Analytics Internship – Deloitte, Mumbai (Summer 2025)
 

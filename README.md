@@ -1,4 +1,4 @@
-# deloitte
+# Deloitte
 ## About Me
 
 I am a data and analytics enthusiast based in Mumbai, with a keen interest in leveraging technology to solve business challenges. My background blends technical proficiency with a passion for storytelling through data. I enjoy building tools and visualizations that make impact accessible to a wide audience.
